@@ -1,3 +1,1 @@
-# 2025 machine learning
-
-> Assignments and notes
+A Note of Thanks: I'm honoured that the graders are fond of my project, and I truly appreciate your positive feedback. My deepest thanks for the encouragement. I hope it serves as a helpful learning resource for my classmates.
